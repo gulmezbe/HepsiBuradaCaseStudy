@@ -1,0 +1,14 @@
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\bin\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.exe
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\bin\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.deps.json
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\bin\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.runtimeconfig.json
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\bin\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.runtimeconfig.dev.json
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\bin\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.dll
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\bin\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.pdb
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\obj\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.csproj.AssemblyReference.cache
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\obj\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\obj\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.AssemblyInfoInputs.cache
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\obj\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.AssemblyInfo.cs
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\obj\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\obj\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.dll
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\obj\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.pdb
+C:\Users\RumeysaIRMAK\source\repos\HepsiBuradaCaseStudy\HepsiBuradaCaseStudy\obj\Debug\netcoreapp3.1\HepsiBuradaCaseStudy.genruntimeconfig.cache
